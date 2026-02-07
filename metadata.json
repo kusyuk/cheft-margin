@@ -1,0 +1,7 @@
+{
+  "name": "Chef's Margin MVP",
+  "description": "A B2B SaaS dashboard for restaurant management that uses Gemini AI to predict inventory needs and protect profit margins based on reservation data and ingredient price fluctuations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
