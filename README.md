@@ -1,6 +1,6 @@
 # Chef's Margin - AI Restaurant Management MVP
 
-Chef's Margin is a B2B SaaS web application designed to help restaurant owners and chefs protect their profit margins and automate inventory management using Google's Gemini AI.
+Chef's Margin is a B2B SaaS web application designed to help restaurant owners and chefs protect their profit margins and automate inventory management using Google's Gemini AI. *This is an MVP for Google Gemini 3 Hackathon.
 
 ## 🚀 Overview
 
